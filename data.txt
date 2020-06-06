@@ -1,5 +1,7 @@
 info: data
 start
-work
-task 1
+work:
+task un
+task deux
 end
+
