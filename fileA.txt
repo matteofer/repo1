@@ -1,2 +1,7 @@
 Test
+<<<<<<< HEAD
 Test2
+=======
+
+modification
+>>>>>>> br_FIX_01
